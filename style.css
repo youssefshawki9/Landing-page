@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     
-    padding: 50px 360px;
+    padding: 50px 120px;
 }
 
 .header, .footer{
@@ -159,7 +159,7 @@ h1{
     display: flex;
     background-color: #3882f6;
     margin: 100px 400px;
-    padding: 60px 0px;
+    padding: 60px 60px;
     border-radius: 8px;
     justify-content: center;
     color: #f9faf8;
